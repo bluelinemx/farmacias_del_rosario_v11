@@ -1,0 +1,4 @@
+[submodule "bluelinemx/addons-vauxoo"]
+	path = bluelinemx/addons-vauxoo
+	url = git@github.com:bluelinemx/addons-vauxoo.git
+	branch = 11.0
